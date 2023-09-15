@@ -1,16 +1,20 @@
-# teamhub_test
+# TeamHub App
+팀프로젝트 연결해주는 어플입니다.
 
-테스트
+## UI 예상
+<img src="teamhub_test/assets/screens/TeamHub_InMessage.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Login.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Main.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_EditProject.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_MyInfo.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_MyProject.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Project_PM.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Project_SelPo.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Project_User.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Project.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_SelPro.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Splash.png" width="500">
+<img src="teamhub_test/assets/screens/TeamHub_Upload.png" width="500">
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

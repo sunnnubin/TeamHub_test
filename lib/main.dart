@@ -3,10 +3,9 @@ import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:get/get.dart';
 import 'package:teamhub_test/routers/my_router.dart';
 
-Future main() async {
-  await Future.delayed(
-    const Duration(seconds: 2),
-  );
+main() {
+  WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
+  FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
 
   FlutterNativeSplash.remove();
   runApp(const MyApp());
